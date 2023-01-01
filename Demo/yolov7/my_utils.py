@@ -24,6 +24,7 @@ def plot_pose(img, output):
     return image
 
 def show_image(image):
+    # %matplotlib inline
     image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
     plt.figure(figsize=(8,8))
     plt.axis('off')
