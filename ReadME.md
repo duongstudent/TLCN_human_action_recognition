@@ -26,4 +26,4 @@
 - Video squat run lại thanh mục Couting squat action from video,ngược lại với push-up và run lại play video
 
 
-Link bài thuyết trình [tại đây](https://www.canva.com/design/DAFWa7-qjc0/43s1Ndi2ue1PdI7mj_mTEg/view?utm_content=DAFWa7-qjc0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Link bài thuyết trình [tại đây](https://www.canva.com/design/DAFWa7-qjc0/43s1Ndi2ue1PdI7mj_mTEg/view?utm_content=DAFWa7-qjc0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
